@@ -27,10 +27,28 @@ KNN is a model that assigns categories to data points based on the similarity of
 
         <img src="images/knn_tom_rang.jpg" alt="Vietnamese" style="width: 35%; height: auto;"><br>
         *Yum*
-
+<script type="text/javascript">
+	atOptions = {
+		'key' : '808ab509dc35d6a0efa5000b98897213',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/808ab509dc35d6a0efa5000b98897213/invoke.js"></script>
 **Project Inspiration:**<br>
 I love football. I love analyzing things. So I was inspired to reach out to Patrick Ward, Head of Research & Analytics for the Seattle Seahawks, to discuss the extent of his role with the team. As expected, he said his team uses models to more efficiently identify talent because they simply cannot watch game film on every player.
-
+<script type="text/javascript">
+	atOptions = {
+		'key' : '808ab509dc35d6a0efa5000b98897213',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/808ab509dc35d6a0efa5000b98897213/invoke.js"></script>
 In a sports context, I've also only seen KNN models used to identify the positions of players. This is not a helpful application of KNN if you can simply look up a player's position.
 
 So I set out to build a model that can be applied to college, CFL, and UFL data to find overlooked receivers.
@@ -53,7 +71,16 @@ So I set out to build a model that can be applied to college, CFL, and UFL data 
 6. A preseason injury to the team's #3 receiver gives Johnson the chance to start every regular season game. Johnson records 623 yards and 5 receiving touchdowns as a rookie. His speed opens up more underneath passes for other receivers, giving Drake Maye more chances to gain confidence as a rookie quarterback.<br><br>
 
 
-## Data Sources
+## Data Sources <script type="text/javascript">
+	atOptions = {
+		'key' : '808ab509dc35d6a0efa5000b98897213',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/808ab509dc35d6a0efa5000b98897213/invoke.js"></script>
 **Sportradar ("SR")**:
 1. Play-by-play data for the 2022 regular season was obtained from a Sportradar NFL API using a trial-access API key.
 2. **Content:** After several rounds of unnesting, the dataset contains 154,285 rows and 217 columns. Types of data include week number, game clock, down, yards to gain, route type, quarterback, attempted air yards, and yards after contact.
